@@ -39,19 +39,6 @@
                     "credit":"",
                     "caption":""
                 }
-            },
-
-            {
-                "startDate":"2014,8,7",
-                "endDate":"2015,4,20",
-                "headline":"Introduction to Clinical Medicine 1",
-                "text":"This core course presents basic concepts from the fields of molecular biology, genetics, cell biology, biochemistry, and cell physiology as they apply to current and future medical practice. Material is presented in lectures and problem-solving sessions with a case-based learning component. Topics include: DNA and RNA structure and function; protein structure and turnover; cellular structures; cell-cell communication; the cell cycle; genetics; cytogenetics; stem cell biology; cancer; cancer genetics; blood; metabolism of carbohydrates, lipids, amino acids, and nucleotides; diabetes; osmotic forces, membrane potentials, action potentials, and synaptic transmission. This course serves as a foundation for the Block 3 Tissues and Organ Systems course, the Block 4 Neuroscience course, and courses in the second year.",
-                "asset":
-                {
-                    "media":"assets/img/molecule.jpg",
-                    "credit":"",
-                    "caption":""
-                }
             }
             
         ]
