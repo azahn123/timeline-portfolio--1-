@@ -1,0 +1,59 @@
+
+{
+    "timeline":
+    {
+        "headline":"Jefferson Medical College",
+        "type":"default",
+		"startDate":"2014,8,7",
+        "endDate":"2015,8,7",
+		"text":"<i><span class='c1'>Curriculum Map</span></i>",
+         
+
+		"asset":
+        {
+            "media":"assets/img/brain01.jpg",
+            "credit":"",
+            "caption":""
+        },
+        "date": [
+            {
+                "startDate":"2014,8,7",
+                "endDate":"2014,10,20",
+                "headline":"Human Form and Development",
+                "text":"This course is a foundational course emphasizing key concepts in hu- man development and gross anatomy. All major anatomical regions are covered from a combined lecture and dissection approach. Dissection sessions provide each student with an opportunity to verify all that he or she has been exposed to via reading and lecture regarding the gross structure of the human body, i.e., evidence-based medicine in its simplest form. The sequence in which the regions are approached are as follows: back, upper limb, thorax, abdomen, pelvis and perineum, lower limb, and head and neck.",
+                "asset":
+                {
+                    "media":"assets/img/brain01.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2014,10,20",
+                "endDate":"2015,1,18",
+                "headline":"Molecular and Cellular Basis of Medicine",
+                "text":"This core course presents basic concepts from the fields of molecular biology, genetics, cell biology, biochemistry, and cell physiology as they apply to current and future medical practice. Material is presented in lectures and problem-solving sessions with a case-based learning component. Topics include: DNA and RNA structure and function; protein structure and turnover; cellular structures; cell-cell communication; the cell cycle; genetics; cytogenetics; stem cell biology; cancer; cancer genetics; blood; metabolism of carbohydrates, lipids, amino acids, and nucleotides; diabetes; osmotic forces, membrane potentials, action potentials, and synaptic transmission. This course serves as a foundation for the Block 3 Tissues and Organ Systems course, the Block 4 Neuroscience course, and courses in the second year.",
+                "asset":
+                {
+                    "media":"assets/img/molecule.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"2014,8,7",
+                "endDate":"2015,4,20",
+                "headline":"Introduction to Clinical Medicine 1",
+                "text":"This core course presents basic concepts from the fields of molecular biology, genetics, cell biology, biochemistry, and cell physiology as they apply to current and future medical practice. Material is presented in lectures and problem-solving sessions with a case-based learning component. Topics include: DNA and RNA structure and function; protein structure and turnover; cellular structures; cell-cell communication; the cell cycle; genetics; cytogenetics; stem cell biology; cancer; cancer genetics; blood; metabolism of carbohydrates, lipids, amino acids, and nucleotides; diabetes; osmotic forces, membrane potentials, action potentials, and synaptic transmission. This course serves as a foundation for the Block 3 Tissues and Organ Systems course, the Block 4 Neuroscience course, and courses in the second year.",
+                "asset":
+                {
+                    "media":"assets/img/molecule.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+            
+        ]
+    }
+}
