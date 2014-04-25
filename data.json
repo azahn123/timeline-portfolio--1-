@@ -16,6 +16,9 @@
             "caption":""
         },
         "date": [
+
+
+
             {
                 "startDate":"2014,8,7",
                 "endDate":"2014,10,20",
@@ -28,6 +31,9 @@
                     "caption":""
                 }
             },
+
+
+
             {
                 "startDate":"2014,10,20",
                 "endDate":"2015,1,18",
@@ -39,7 +45,74 @@
                     "credit":"",
                     "caption":""
                 }
+            },
+
+
+
+            {
+                "startDate":"2015,1,19",
+                "endDate":"2015,4,20",
+                "headline":"The Systems",
+                "text":"This course presents a coordinated discussion of normal structure and function of the human body at the tissue, organ-system and integrative regulatory level. Presentations of the microscopic anatomy of tissues and organ system precede discussions on the physiologic function and regulation of those tissues and systems. Microscopic Anatomy topics include: tissues (i.e., epithelium, connective and supportive tissues), muscle, nerve, blood, as well as tissues of the gastrointestinal, cardiovascular, immune, cutaneous, respiratory, renal, endocrine and reproduc- tive systems. In addition, there is an introduction to histopathology at the systems level. ",
+                "asset":
+                {
+                    "media":"http://vimeo.com/37162074",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+
+
+
+            {
+                "startDate":"2015,4,21",
+                "endDate":"2015,5,20",
+                "headline":"Neuroscience",
+                "text":"The first year ends with a six week section dedicated to the morphology (gross and microscopic) and function of the human nervous system with applications to clinical medicine. Topics include: anatomy and physiology of the brain and spinal cord, neurotransmitters, sensory and motor pathways, special senses, suprasegmental and cortical functions. Teach- ing is done in lectures, patient presentations in Grand Rounds format, small group laboratory exercises, small group clinical skills sessions, and small group case studies. This course is team taught in collaboration with eleven basic science and clinical departments. ",
+                "asset":
+                {
+                    "media":"http://vimeo.com/63350703",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+
+
+
+
+            {
+                "startDate":"2015,5,21",
+                "endDate":"2015,8,20",
+                "headline":"Recess",
+                "text":"This module presents fundamental concepts in pathology and pharmacology in preparation for the integration of these disciplines in the Foundations of Clinical Medicine course. The pathology component focuses on mechanisms of disease, including cell injury, inflammation, wound healing, amyloidosis, environmental pathology, neoplasia, de- velopmental/genetic diseases, and hemodynamic disorders. Students learn in lectures, case studies, and interactive discussion/review sessions. ",
+                "asset":
+                {
+                    "media":"http://vimeo.com/86868940",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+
+
+
+
+
+
+            {
+                "startDate":"2015,8,21",
+                "endDate":"2015,9,7",
+                "headline":"Foundations of Pathology & Pharmacology",
+                "text":"This module presents fundamental concepts in pathology and pharmacology in preparation for the integration of these disciplines in the Foundations of Clinical Medicine course. The pathology component focuses on mechanisms of disease, including cell injury, inflammation, wound healing, amyloidosis, environmental pathology, neoplasia, de- velopmental/genetic diseases, and hemodynamic disorders. Students learn in lectures, case studies, and interactive discussion/review sessions. ",
+                "asset":
+                {
+                    "media":"http://vimeo.com/86868940",
+                    "credit":"",
+                    "caption":""
+                }
             }
+
+
+
             
         ]
     }

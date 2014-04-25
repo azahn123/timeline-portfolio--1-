@@ -224,7 +224,10 @@ section, footer, header{
 }
 
 #timeline .slider-item:nth-child(1) p i{
-	font:normal normal 40px 'Dancing Script','Segoe UI',sans-serif;
+	font:italic 40px 'PT Sans', 'sans-serif';
+
+	/*font-family: 'PT Sans', 'sans-serif';*/
+
 	background:rgba(0,0,0,0.3);
 	white-space: nowrap;
 	padding:5px 20px;
@@ -234,7 +237,8 @@ section, footer, header{
 }
 
 #timeline .slider-item:nth-child(1) p .c1{
-	color:#1bdff0;
+	/*color:#1bdff0;*/
+	color: #3D9AFF;
 }
 
 #timeline .slider-item:nth-child(1) p .c2{
